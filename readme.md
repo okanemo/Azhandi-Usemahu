@@ -1,4 +1,4 @@
-<h1>REAMDME</h1>
+<h1>README</h1>
 <hr>
 <h3>Requirements<li>
   <ul>
@@ -45,7 +45,8 @@
  </ol>
   
 <p> if success it will return <br>
-  {'Success': 'Patient data added'}
+  {'Success': 'Patient data added'} <br>
+    if fail it will return a json with what the error is
 </p>
 
 
