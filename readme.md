@@ -22,17 +22,16 @@ hr
     
 <h4>Setting up the database<h4>
  <ol>
-    <li>open pgadmin<li>
-    <li>create new server<li>
+    <li>open pgadmin</li>
+    <li>create new server</li>
     <li>on the connection tab, input :
       <ul>
-        <li>host : localhost<li>
-        <li>port : 5000<li>
-        <li>username : postgres<li>
+        <li>host : localhost</li>
+        <li>port : 5000</li>
+        <li>username : postgres</li>
         <li>password : postgres</li>
       </ul>
       <li>save the configuration<li>
-    <li>
  </ol>
 
 
