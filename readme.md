@@ -4,7 +4,7 @@
   <ul>
     <li>already installed Docker</li>
     <li>Already installed Postman</li>
-    <li>pgadmin<li>
+    <li>pgadmin</li>
   </ul>
 <h3>How to use<h3>
 <h4>Setting up the Application<h4>
