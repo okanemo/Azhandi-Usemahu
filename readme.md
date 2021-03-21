@@ -21,6 +21,7 @@
 </ol>
     
 <h4>Setting up the database<h4>
+ <hr>
  <ol>
     <li>open pgadmin</li>
     <li>create new server</li>
@@ -35,6 +36,17 @@
  </ol>
   
   <h3>Run the application<h3>
+  <hr>
+   <ol>
+    <li>make sure the app is running (with run-command on the app directory: docker-compose up)</li>
+    <li>on postman, set the URL to localhost:8000 and method to POST</li>
+    <li>on the body, set to raw-JSON and input the JSON data</li>
+    <li>click send on the url field</li>
+ </ol>
+  
+<p> if success it will return <br>
+  {'Success': 'Patient data added'}
+</p>
 
 
   
