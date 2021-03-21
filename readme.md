@@ -1,5 +1,5 @@
 <h1>REAMDME</h1>
-hr
+<hr>
 <h3>Requirements<li>
   <ul>
     <li>already installed Docker</li>
@@ -31,8 +31,10 @@ hr
         <li>username : postgres</li>
         <li>password : postgres</li>
       </ul>
-      <li>save the configuration<li>
+      <li>save the configuration</li>
  </ol>
+  
+  <h3>Run the application<h3>
 
 
   
