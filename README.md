@@ -36,6 +36,10 @@
  </ol>
 
   <h3>Run the application<h3>
+  <ul>
+    <li>run-command : docker-compose up</li>
+  </ul>
+  
   <hr>
    <ol>
     <li>make sure the app is running (with run-command on the app directory: docker-compose up)</li>
